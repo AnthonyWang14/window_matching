@@ -1,0 +1,1241 @@
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 10:52:04 2022
+
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 13:09:52 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 13:10:24 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 14:13:31 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 14:14:10 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 14:18:38 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 14:18:57 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 14:19:14 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 14:19:21 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 14:19:28 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 14:21:03 2022
+
+Academic license - for non-commercial use only
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 14:23:49 2022
+
+Academic license - for non-commercial use only
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 4 rows, 9 columns and 16 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [1e-02, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Presolve removed 4 rows and 9 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.6234978e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  3.623497850e-01
+Optimize a model with 5 rows, 9 columns and 17 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [1e-02, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.6234978e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  3.623497850e-01
+Optimize a model with 6 rows, 9 columns and 18 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [1e-02, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.6234978e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  3.623497850e-01
+Optimize a model with 7 rows, 9 columns and 19 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [1e-02, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.6234978e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  3.623497850e-01
+Optimize a model with 8 rows, 9 columns and 20 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [1e-02, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.6234978e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  3.623497850e-01
+Optimize a model with 9 rows, 9 columns and 21 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [1e-02, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.6234978e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  3.623497850e-01
+Optimize a model with 10 rows, 9 columns and 22 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [1e-02, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.6234978e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  3.623497850e-01
+Optimize a model with 11 rows, 9 columns and 23 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [1e-02, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.6234978e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  3.623497850e-01
+Optimize a model with 12 rows, 9 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [1e-02, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.6234978e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  3.623497850e-01
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 14:24:05 2022
+
+Academic license - for non-commercial use only
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 4 rows, 9 columns and 16 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [7e-02, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Presolve removed 4 rows and 9 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.4041757e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  4.404175700e-01
+Optimize a model with 5 rows, 9 columns and 17 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [7e-02, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.4041757e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  4.404175700e-01
+Optimize a model with 6 rows, 9 columns and 18 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [7e-02, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.4041757e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  4.404175700e-01
+Optimize a model with 7 rows, 9 columns and 19 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [7e-02, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.4041757e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  4.404175700e-01
+Optimize a model with 8 rows, 9 columns and 20 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [7e-02, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.4041757e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  4.404175700e-01
+Optimize a model with 9 rows, 9 columns and 21 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [7e-02, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.4041757e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  4.404175700e-01
+Optimize a model with 10 rows, 9 columns and 22 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [7e-02, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.4041757e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  4.404175700e-01
+Optimize a model with 11 rows, 9 columns and 23 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [7e-02, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.4041757e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  4.404175700e-01
+Optimize a model with 12 rows, 9 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [7e-02, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.4041757e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  4.404175700e-01
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 14:24:10 2022
+
+Academic license - for non-commercial use only
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 4 rows, 9 columns and 16 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [1e-01, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Presolve removed 4 rows and 9 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.4709626e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  4.470962628e-01
+Optimize a model with 5 rows, 9 columns and 17 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [1e-01, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.4709626e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  4.470962628e-01
+Optimize a model with 6 rows, 9 columns and 18 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [1e-01, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.4709626e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  4.470962628e-01
+Optimize a model with 7 rows, 9 columns and 19 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [1e-01, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.4709626e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  4.470962628e-01
+Optimize a model with 8 rows, 9 columns and 20 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [1e-01, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.4709626e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  4.470962628e-01
+Optimize a model with 9 rows, 9 columns and 21 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [1e-01, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.4709626e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  4.470962628e-01
+Optimize a model with 10 rows, 9 columns and 22 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [1e-01, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.4709626e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  4.470962628e-01
+Optimize a model with 11 rows, 9 columns and 23 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [1e-01, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.4709626e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  4.470962628e-01
+Optimize a model with 12 rows, 9 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [1e-01, 3e-01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-01, 7e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.4709626e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  4.470962628e-01
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 14:25:30 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 14:28:49 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 14:32:18 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 14:33:09 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 14:35:45 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 16:30:11 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 16:30:46 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 16:40:44 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 16:41:47 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 16:42:32 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 16:45:36 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 16:45:41 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:02:57 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:04:06 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:04:36 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:04:46 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:05:03 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:05:13 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:05:19 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:05:22 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:05:27 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:05:31 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:05:38 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:05:42 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:05:49 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:06:19 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:06:23 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:06:27 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:06:35 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:06:52 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:08:36 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:08:57 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:09:33 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:09:36 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:09:39 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:09:43 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:09:46 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:24:48 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:25:04 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:28:26 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:28:57 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jun 28 17:29:03 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 15:54:10 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 15:54:21 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 15:54:24 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 15:56:12 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 15:56:30 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 20:37:08 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 20:37:48 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 20:38:05 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 21:52:27 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 21:55:12 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 21:57:02 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:02:06 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:02:40 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:04:26 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:04:49 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:05:56 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:06:39 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:13:02 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:13:25 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:14:46 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:15:39 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:15:57 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:16:21 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:16:36 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:16:54 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:16:59 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:17:05 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:30:37 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:30:49 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:31:17 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:31:42 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:31:58 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:32:36 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:33:47 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:33:59 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:34:31 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:44:06 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:44:11 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:44:16 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:45:15 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:50:45 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:51:00 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:51:26 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:51:52 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:53:13 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 22:55:41 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 23:13:22 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 23:13:30 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 23:13:34 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 23:13:42 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 23:15:22 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 23:15:32 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 23:15:57 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 23:16:13 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 23:16:30 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 23:16:35 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 23:29:24 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 23:31:26 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 23:33:07 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 23:34:46 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 23:35:27 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 23:37:29 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jun 29 23:39:42 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 00:22:17 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 00:23:22 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 00:23:45 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 00:25:21 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 00:26:27 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 00:28:30 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 00:30:16 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 11:10:58 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 11:11:59 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 11:53:10 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 12:20:12 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 14:39:02 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 14:43:52 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 14:45:41 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 14:47:49 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 14:48:12 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 14:50:18 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 15:07:53 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 15:24:18 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 15:27:07 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 19:22:40 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 19:24:07 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 19:39:05 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 19:39:33 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 19:39:38 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 19:39:39 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 19:39:40 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 19:40:37 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 19:41:27 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 19:41:41 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 19:42:33 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 19:43:06 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 20:03:41 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 20:22:29 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 20:23:03 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 20:23:26 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 20:41:38 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 20:47:49 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 20:49:36 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 21:04:59 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 21:05:42 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 21:08:41 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 21:09:50 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 21:10:56 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 21:12:07 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 21:23:24 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 21:28:23 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 21:29:01 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 21:29:58 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 21:30:25 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 21:30:39 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 22:17:09 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 23:11:02 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 23:11:13 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jun 30 23:12:42 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 20:41:21 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 21:29:49 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 21:31:55 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 21:37:40 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 21:37:58 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 21:39:27 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 21:40:20 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 21:41:22 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 21:41:32 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 21:42:19 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 21:42:36 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 21:43:21 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 21:44:12 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 21:58:54 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 22:01:13 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 22:03:35 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 22:04:19 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 22:23:06 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 22:24:21 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 22:56:27 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 22:58:41 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 22:59:23 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 23:04:54 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 23:04:59 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 23:05:17 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 23:17:42 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 23:18:23 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 23:19:21 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 23:19:54 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 23:20:35 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 23:20:45 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 23:21:42 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 23:22:27 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 23:22:47 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 23:27:07 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 23:28:57 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 23:31:30 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 23:53:37 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 23:55:36 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 23:59:25 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Jul 19 23:59:41 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jul 20 00:00:11 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jul 20 00:07:39 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jul 20 00:16:13 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jul 20 00:16:34 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jul 20 00:16:44 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jul 20 00:27:32 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jul 20 08:59:13 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jul 20 09:01:03 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jul 20 09:04:58 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jul 20 09:12:28 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jul 20 09:20:06 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jul 20 09:20:25 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jul 20 09:20:38 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jul 20 09:22:02 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jul 20 09:24:34 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jul 20 09:24:50 2022
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Jul 20 09:24:59 2022
+
+Academic license - for non-commercial use only
