@@ -108,7 +108,7 @@ if __name__ == '__main__':
     g = Graph(type_number = 30, weights = None)
     # g.show_details()
     # d = 10
-    T = 1000
+    T = 2000
     # g.extend(d)
     # print(g.weights, g.rates, g.N)
     online_match = OnlineMatching(g, T=T)

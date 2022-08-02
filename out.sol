@@ -1,5 +1,5 @@
 # Solution for model LP
-# Objective value = 3.4469591894587026e-01
+# Objective value = 3.4701739437682422e-01
 edge_name[0_0] 0
 edge_name[0_1] 0
 edge_name[0_2] 0
@@ -12,7 +12,7 @@ edge_name[0_8] 0
 edge_name[0_9] 0
 edge_name[0_10] 0
 edge_name[0_11] 0
-edge_name[0_12] 3.8852337860081237e-01
+edge_name[0_12] 3.2008408744857836e-01
 edge_name[0_13] 0
 edge_name[0_14] 0
 edge_name[0_15] 0
@@ -52,7 +52,7 @@ edge_name[1_18] 0
 edge_name[1_19] 0
 edge_name[1_20] 0
 edge_name[1_21] 0
-edge_name[1_22] 0
+edge_name[1_22] 1.5016804084877816e-01
 edge_name[1_23] 0
 edge_name[1_24] 0
 edge_name[1_25] 0
@@ -77,7 +77,7 @@ edge_name[2_13] 0
 edge_name[2_14] 0
 edge_name[2_15] 0
 edge_name[2_16] 0
-edge_name[2_17] 2.3729228724347859e-01
+edge_name[2_17] 3.1831416537167811e-01
 edge_name[2_18] 0
 edge_name[2_19] 0
 edge_name[2_20] 0
@@ -115,7 +115,7 @@ edge_name[3_21] 0
 edge_name[3_22] 0
 edge_name[3_23] 0
 edge_name[3_24] 0
-edge_name[3_25] 5.3120700538614862e-01
+edge_name[3_25] 6.2414010772297170e-02
 edge_name[3_26] 0
 edge_name[3_27] 0
 edge_name[3_28] 0
@@ -138,12 +138,12 @@ edge_name[4_14] 0
 edge_name[4_15] 0
 edge_name[4_16] 0
 edge_name[4_17] 0
-edge_name[4_18] 7.8332652797146951e-01
+edge_name[4_18] 2.1997550069729013e-01
 edge_name[4_19] 0
 edge_name[4_20] 0
 edge_name[4_21] 0
 edge_name[4_22] 0
-edge_name[4_23] 2.1997550069729016e-01
+edge_name[4_23] 7.1127197754857330e-01
 edge_name[4_24] 0
 edge_name[4_25] 0
 edge_name[4_26] 0
@@ -164,7 +164,7 @@ edge_name[5_10] 0
 edge_name[5_11] 0
 edge_name[5_12] 0
 edge_name[5_13] 0
-edge_name[5_14] 7.2388712887600493e-01
+edge_name[5_14] 3.1421219369641645e-01
 edge_name[5_15] 0
 edge_name[5_16] 0
 edge_name[5_17] 0
@@ -204,7 +204,7 @@ edge_name[6_20] 0
 edge_name[6_21] 0
 edge_name[6_22] 0
 edge_name[6_23] 0
-edge_name[6_24] 2.5439906761231068e-01
+edge_name[6_24] 7.1231738931446986e-01
 edge_name[6_25] 0
 edge_name[6_26] 0
 edge_name[6_27] 0
@@ -225,14 +225,14 @@ edge_name[7_11] 0
 edge_name[7_12] 0
 edge_name[7_13] 0
 edge_name[7_14] 0
-edge_name[7_15] 0
+edge_name[7_15] 2.5616029018389336e-01
 edge_name[7_16] 0
 edge_name[7_17] 0
 edge_name[7_18] 0
 edge_name[7_19] 0
 edge_name[7_20] 0
 edge_name[7_21] 0
-edge_name[7_22] 0
+edge_name[7_22] 5.5787978236208002e-01
 edge_name[7_23] 0
 edge_name[7_24] 0
 edge_name[7_25] 0
@@ -261,7 +261,7 @@ edge_name[8_17] 0
 edge_name[8_18] 0
 edge_name[8_19] 0
 edge_name[8_20] 0
-edge_name[8_21] 1.5881289249213146e-02
+edge_name[8_21] 3.5155014529722778e-02
 edge_name[8_22] 0
 edge_name[8_23] 0
 edge_name[8_24] 0
@@ -310,7 +310,7 @@ edge_name[10_6] 0
 edge_name[10_7] 0
 edge_name[10_8] 0
 edge_name[10_9] 0
-edge_name[10_10] 2.1856835831958590e-01
+edge_name[10_10] 2.1856835831958588e-01
 edge_name[10_11] 0
 edge_name[10_12] 0
 edge_name[10_13] 0
@@ -329,7 +329,7 @@ edge_name[10_25] 0
 edge_name[10_26] 0
 edge_name[10_27] 0
 edge_name[10_28] 0
-edge_name[10_29] 0
+edge_name[10_29] 4.4079031260737844e-01
 edge_name[11_0] 0
 edge_name[11_1] 0
 edge_name[11_2] 0
@@ -360,7 +360,7 @@ edge_name[11_26] 0
 edge_name[11_27] 0
 edge_name[11_28] 0
 edge_name[11_29] 0
-edge_name[12_0] 2.7111589021301941e-01
+edge_name[12_0] 4.7445280787278399e-01
 edge_name[12_1] 0
 edge_name[12_2] 0
 edge_name[12_3] 0
@@ -411,9 +411,9 @@ edge_name[13_17] 0
 edge_name[13_18] 0
 edge_name[13_19] 0
 edge_name[13_20] 0
-edge_name[13_21] 9.5163195950319579e-02
-edge_name[13_22] 0
-edge_name[13_23] 0
+edge_name[13_21] 8.6618406735428005e-02
+edge_name[13_22] 8.6618406735428005e-02
+edge_name[13_23] 8.6618406735428005e-02
 edge_name[13_24] 0
 edge_name[13_25] 0
 edge_name[13_26] 0
@@ -425,7 +425,7 @@ edge_name[14_1] 0
 edge_name[14_2] 0
 edge_name[14_3] 0
 edge_name[14_4] 0
-edge_name[14_5] 1.3052676863765286e-01
+edge_name[14_5] 3.2419229847388426e-01
 edge_name[14_6] 0
 edge_name[14_7] 0
 edge_name[14_8] 0
@@ -457,7 +457,7 @@ edge_name[15_3] 0
 edge_name[15_4] 0
 edge_name[15_5] 0
 edge_name[15_6] 0
-edge_name[15_7] 7.4344951884964727e-01
+edge_name[15_7] 5.5300727436404573e-01
 edge_name[15_8] 0
 edge_name[15_9] 0
 edge_name[15_10] 0
@@ -501,7 +501,7 @@ edge_name[16_17] 0
 edge_name[16_18] 0
 edge_name[16_19] 0
 edge_name[16_20] 0
-edge_name[16_21] 1.3068455605146970e-02
+edge_name[16_21] 2.9737567966965243e-02
 edge_name[16_22] 0
 edge_name[16_23] 0
 edge_name[16_24] 0
@@ -512,7 +512,7 @@ edge_name[16_28] 0
 edge_name[16_29] 0
 edge_name[17_0] 0
 edge_name[17_1] 0
-edge_name[17_2] 2.5453431528438175e-01
+edge_name[17_2] 0
 edge_name[17_3] 0
 edge_name[17_4] 0
 edge_name[17_5] 0
@@ -538,13 +538,13 @@ edge_name[17_24] 0
 edge_name[17_25] 0
 edge_name[17_26] 0
 edge_name[17_27] 0
-edge_name[17_28] 3.3466837848079228e-01
+edge_name[17_28] 6.2138594952526094e-01
 edge_name[17_29] 0
 edge_name[18_0] 0
 edge_name[18_1] 0
 edge_name[18_2] 0
 edge_name[18_3] 0
-edge_name[18_4] 1.4592590338354461e-01
+edge_name[18_4] 5.2533325218076066e-01
 edge_name[18_5] 0
 edge_name[18_6] 0
 edge_name[18_7] 0
@@ -629,7 +629,7 @@ edge_name[20_25] 0
 edge_name[20_26] 0
 edge_name[20_27] 0
 edge_name[20_28] 0
-edge_name[20_29] 2.8368312523588446e-01
+edge_name[20_29] 5.5920968739262156e-01
 edge_name[21_0] 0
 edge_name[21_1] 0
 edge_name[21_2] 0
@@ -638,15 +638,15 @@ edge_name[21_4] 0
 edge_name[21_5] 0
 edge_name[21_6] 0
 edge_name[21_7] 0
-edge_name[21_8] 7.2058654964264479e-01
+edge_name[21_8] 3.8148699686963544e-01
 edge_name[21_9] 0
 edge_name[21_10] 0
 edge_name[21_11] 0
 edge_name[21_12] 0
-edge_name[21_13] 7.2058654964264479e-01
+edge_name[21_13] 3.8148699686963544e-01
 edge_name[21_14] 0
 edge_name[21_15] 0
-edge_name[21_16] 7.2058654964264479e-01
+edge_name[21_16] 3.6418833855060756e-01
 edge_name[21_17] 0
 edge_name[21_18] 0
 edge_name[21_19] 0
@@ -657,23 +657,23 @@ edge_name[21_23] 0
 edge_name[21_24] 0
 edge_name[21_25] 0
 edge_name[21_26] 0
-edge_name[21_27] 7.2058654964264479e-01
+edge_name[21_27] 2.7941345035735532e-01
 edge_name[21_28] 0
 edge_name[21_29] 0
 edge_name[22_0] 0
-edge_name[22_1] 1.0729204811369840e-01
+edge_name[22_1] 0
 edge_name[22_2] 0
 edge_name[22_3] 0
 edge_name[22_4] 0
 edge_name[22_5] 0
 edge_name[22_6] 0
-edge_name[22_7] 2.5655048115035273e-01
+edge_name[22_7] 5.2756094481468563e-02
 edge_name[22_8] 0
 edge_name[22_9] 0
 edge_name[22_10] 0
 edge_name[22_11] 0
 edge_name[22_12] 0
-edge_name[22_13] 0
+edge_name[22_13] 9.5547907123484294e-02
 edge_name[22_14] 0
 edge_name[22_15] 0
 edge_name[22_16] 0
@@ -694,7 +694,7 @@ edge_name[23_0] 0
 edge_name[23_1] 0
 edge_name[23_2] 0
 edge_name[23_3] 0
-edge_name[23_4] 1.1949975628308046e-01
+edge_name[23_4] 0
 edge_name[23_5] 0
 edge_name[23_6] 0
 edge_name[23_7] 0
@@ -703,7 +703,7 @@ edge_name[23_9] 0
 edge_name[23_10] 0
 edge_name[23_11] 0
 edge_name[23_12] 0
-edge_name[23_13] 0
+edge_name[23_13] 9.2944254886840355e-02
 edge_name[23_14] 0
 edge_name[23_15] 0
 edge_name[23_16] 0
@@ -726,7 +726,7 @@ edge_name[24_2] 0
 edge_name[24_3] 0
 edge_name[24_4] 0
 edge_name[24_5] 0
-edge_name[24_6] 3.0634898258775711e-01
+edge_name[24_6] 1.1820166963776871e-01
 edge_name[24_7] 0
 edge_name[24_8] 0
 edge_name[24_9] 0
@@ -753,7 +753,7 @@ edge_name[24_29] 0
 edge_name[25_0] 0
 edge_name[25_1] 0
 edge_name[25_2] 0
-edge_name[25_3] 9.9364260811272129e-02
+edge_name[25_3] 1.9872852162254426e-01
 edge_name[25_4] 0
 edge_name[25_5] 0
 edge_name[25_6] 0
@@ -831,7 +831,7 @@ edge_name[27_17] 0
 edge_name[27_18] 0
 edge_name[27_19] 0
 edge_name[27_20] 0
-edge_name[27_21] 1.3765357053763713e-01
+edge_name[27_21] 3.5499834139282077e-01
 edge_name[27_22] 0
 edge_name[27_23] 0
 edge_name[27_24] 0
@@ -857,7 +857,7 @@ edge_name[28_13] 0
 edge_name[28_14] 0
 edge_name[28_15] 0
 edge_name[28_16] 0
-edge_name[28_17] 3.1454091755595470e-01
+edge_name[28_17] 0
 edge_name[28_18] 0
 edge_name[28_19] 0
 edge_name[28_20] 0
@@ -880,7 +880,7 @@ edge_name[29_6] 0
 edge_name[29_7] 0
 edge_name[29_8] 0
 edge_name[29_9] 0
-edge_name[29_10] 5.6286328336082825e-01
+edge_name[29_10] 0
 edge_name[29_11] 0
 edge_name[29_12] 0
 edge_name[29_13] 0
@@ -890,7 +890,7 @@ edge_name[29_16] 0
 edge_name[29_17] 0
 edge_name[29_18] 0
 edge_name[29_19] 0
-edge_name[29_20] 4.9270706207077863e-01
+edge_name[29_20] 0
 edge_name[29_21] 0
 edge_name[29_22] 0
 edge_name[29_23] 0
