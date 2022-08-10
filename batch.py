@@ -20,11 +20,11 @@ class BatchMatching:
         if self.batch_type == 'MIN':
             batch_size = int(min(self.quit_time)+1)
         if self.batch_type == 'MEAN':
-            batch_size = int(np.mean(self.G.mean_quit_time)+1)
+            batch_size = int(np.sum(self.G.rates*self.G.mean_quit_time)+1)
         # batch_size = self.d+1
         batch_num = int(len(self.seq)/batch_size)
         reward = 0
-        print('batch_size', batch_size, 'batch_num', batch_num)
+        # print('batch_size', batch_size, 'batch_num', batch_num)
         self.matching = []
         for i in range(batch_num+1):
             # if int(i%10) == 0:
@@ -40,7 +40,7 @@ class BatchMatching:
                     alive.append(1)
                 else:
                     alive.append(0)
-            print(alive)
+            # print(alive)
             max_match = MaxMatching(graph=self.G, seq=batch_seq, quit_time=batch_quit_time, alive=alive)
             reward += max_match.eval()
             for m in max_match.matching:

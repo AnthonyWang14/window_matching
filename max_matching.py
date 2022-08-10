@@ -28,6 +28,7 @@ class MaxMatching:
         m.setParam('OutputFlag', False)
         x = m.addVars(edge_name, lb = 0, ub = 1, vtype=GRB.BINARY, name = 'edge_name')
         m.setObjective(sum(edge_weight[e]*x[e] for e in edge_name), GRB.MAXIMIZE)
+        # print(m.objective)
 
         # constraints
         for ind_i in range(len(self.seq)):
@@ -48,8 +49,8 @@ class MaxMatching:
             if self.sol[e] > 1e-5:
                 self.matching.append([int(e.split('_')[0]), int(e.split('_')[1])])
             # print(e, self.sol[e])
-        # m.write("out.lp")
-        # m.write("out.sol")
+        m.write("out.lp")
+        m.write("out.sol")
         # print('matching of off', self.matching)
         self.reward = m.getObjective().getValue()
         return self.reward
@@ -57,14 +58,17 @@ class MaxMatching:
     
 if __name__ == '__main__':
     np.random.seed(0)
-    g = Graph(type_number = 5, weights = None, rates = [0.1, 0.2, 0.2, 0.1, 0.4])
-    T = 100
+    g = Graph(type_number = 3, weights = None)
+    T = 10
     seq = []
     quit_time = []
     for t in range(T):
         seq_one, quit_one = g.gene_an_arrival()
         seq.append(seq_one)
         quit_time.append(quit_one)
+    m = MaxMatching(graph=g, seq=seq, quit_time=quit_time, alive = [1 for i in range(len(seq))])
+    m.eval()
+    print(m.reward)
     print(seq)
     print(quit_time)
 

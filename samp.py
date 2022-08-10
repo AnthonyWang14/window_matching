@@ -3,7 +3,7 @@ from gurobipy import *
 import numpy as np
 
 class Samp:
-    def __init__(self, graph = None, seq=[], quit_time=[], gamma = 0.36) -> None:
+    def __init__(self, graph = None, seq=[], quit_time=[], gamma = 0.36, threshold = 1.0) -> None:
         self.G = graph
         # self.G.show_details()
         # self.eval([0,1,1,1])
@@ -12,6 +12,7 @@ class Samp:
         self.seq = seq
         self.quit_time = quit_time
         self.gamma = gamma
+        self.threshold = threshold
         # print("T and d", self.T, self.d)
         pass
     
@@ -78,14 +79,39 @@ class Samp:
                 for ind in range(start, t):
                     if (t-ind)<=self.quit_time[ind] and matched[ind] == 0:
                         candidate_index.append(ind)
-                # candidate_index = list(range(start, t))
+                # np.random.shuffle(candidate_index)
+                # candidate_index_tie = []
+                # cand_quit_time = []
+                # for ind in candidate_index:
+                #     u = self.seq[ind]
+                #     prob = self.sol[str(u)+'_'+str(v)]*self.gamma/min(1, self.G.mean_quit_time[u]*self.G.rates[u])
+                #     if prob > self.threshold:
+                #         prob = 1
+                #     if np.random.random() <= prob:
+                #         candidate_index_tie.append(ind)
+                #         cand_quit_time.append(ind+self.quit_time[ind])
+
+                # if len(candidate_index_tie) > 0: 
+                #     cand_quit_time = np.array(cand_quit_time)
+                #     # print(cand_quit_time)
+                #     ind_sort = np.argsort(cand_quit_time)
+                #     ind = ind_sort[0]
+                #     # print(cand_quit_time, ind)
+                #     ind = candidate_index_tie[ind]
+                #     self.matching.append([ind, t, t])
+                #     matched[t] = 1
+                #     matched[ind] = 1
+                #     self.reward += self.G.weights[self.seq[ind]][self.seq[t]]
+                
                 candidate_type = [self.seq[ind] for ind in candidate_index]
                 np.random.shuffle(candidate_type)
                 # print(t, candidate_index)
                 found = False
                 for u in candidate_type:
-                    prob = self.sol[str(u)+'_'+str(v)]*self.gamma/min(1, self.G.mean_quit_time[u]*self.G.rates[u])
-                    print('prob', prob)
+                    prob = self.sol[str(u)+'_'+str(v)]*self.gamma/(self.G.mean_quit_time[u]*self.G.rates[u])
+                    if prob > self.threshold:
+                        prob = 1
+                    # print('prob', prob)
                     if np.random.random() <= prob:
                         for ind in candidate_index:
                             if self.seq[ind] == u:
@@ -97,22 +123,6 @@ class Samp:
                                 break
                     if found:
                         break
-                # for ind in candidate_index:
-                #     if matched[ind] == 0:
-                #         u = self.seq[ind]
-                #         # sample
-                #         prob = self.sol[str(u)+'_'+str(v)]*self.gamma
-                #         # print(prob)
-                #         # print(np.random.random())
-                #         if np.random.random() <= prob:
-                #             self.matching.append([ind,t])
-                #             matched[t] = 1
-                #             matched[ind] = 1
-                #             self.reward += self.G.weights[u][v]
-                #         break
-        # print(self.Matching)
-        # print(self.reward, len(self.matching))
-        # print('matching of samp', self.matching)
         return self.reward
 
  
@@ -121,9 +131,9 @@ if __name__ == '__main__':
     np.random.seed(23)
     quit_dist = []
     type_number = 5
-    for i in range(type_number):
-        quit_dist.append({'value':[2], 'prob':[1]})
-    g = Graph(type_number = 5, weights = None, rates = [0.1, 0.2, 0.2, 0.1, 0.4], quit_dist = quit_dist) 
+    # for i in range(type_number):
+    #     quit_dist.append({'value':[2], 'prob':[1]})
+    g = Graph(type_number = 5, weights = None, rates = [0.1, 0.2, 0.2, 0.1, 0.4]) 
     T = 10
     seq = []
     INT_RATE = False
@@ -140,6 +150,5 @@ if __name__ == '__main__':
             quit_time.append(quit_one)
     print(seq, quit_time)
     s = Samp(graph=g, seq=seq, quit_time=quit_time, gamma=0.5)
-    s.solve()
     s.eval()
     
